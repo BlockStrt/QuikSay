@@ -5,6 +5,7 @@
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
+  
 }
 
 .description {
@@ -260,6 +261,7 @@
 @media (prefers-color-scheme: dark) {
   .vercelLogo {
     filter: invert(1);
+    ;
   }
 
   .logo,
