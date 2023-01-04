@@ -17,7 +17,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            Need a fairly perfect essay?
+            Do Not Enter
           </p>
           <div>
             <a
@@ -66,10 +66,10 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Smting Convincing <span>-&gt;</span>
+              Events <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Explaining why this works and&nbsp;How fast.
+              I think you might want to be here.&nbsp;Come Quick!
             </p>
           </a>
 
@@ -80,10 +80,10 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Learn <span>-&gt;</span>
+              About Us <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Reasons why you'll learn using our&nbsp;service!
+            Anniversary Group is the sound of music’s most unique&nbsp;acts!
             </p>
           </a>
 
@@ -94,10 +94,10 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              About <span>-&gt;</span>
+              Artist <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Simple about us&nbsp; display papers already written.
+              Visit acts of the new gen.&nbsp;
             </p>
           </a>
 
@@ -108,11 +108,10 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Start Now <span>-&gt;</span>
+              Contact Us <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Instantly write a well written essay you can comfortably learn from
-              in a fashionable amount of&nbsp;time.
+              Speak with us now!
             </p>
           </a>
         </div>
