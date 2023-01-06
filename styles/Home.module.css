@@ -131,6 +131,23 @@
   z-index: -1;
 }
 
+/* pop up card style  */
+
+ .popcard{
+  position: absolute;
+  left: 50%; 
+  transform: translate(-50%, 0); 
+  bottom: 10%;
+  width: 30%;
+  height: 50%;
+
+  
+}
+/* .carditems{
+ color: red;
+}  */
+
+
 /* Conic Gradient Animation */
 .thirteen::before {
   animation: 6s rotate linear infinite;
@@ -185,6 +202,14 @@
     margin-bottom: 120px;
     max-width: 320px;
     text-align: center;
+  }
+
+  .popcard{
+    position: absolute;
+    top: 90%;
+    left: 20%; 
+    transform: translate(-10%, 0); 
+    
   }
 
   .card {
